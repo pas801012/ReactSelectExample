@@ -1,2 +1,0 @@
-# ReactSelectExample
-Created with CodeSandbox
